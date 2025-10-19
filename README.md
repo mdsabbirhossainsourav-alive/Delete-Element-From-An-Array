@@ -30,6 +30,7 @@ After deleting, the subsequent elements are shifted to the left to fill the gap.
 ### Example Output
 
 10 20 30 50
+---
 
 ## Algorithm Steps
 
