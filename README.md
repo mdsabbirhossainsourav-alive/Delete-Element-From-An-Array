@@ -25,6 +25,7 @@ After deleting, the subsequent elements are shifted to the left to fill the gap.
 10 20 30 40 50
 ---
 3
+---
 
 ### Example Output
 
